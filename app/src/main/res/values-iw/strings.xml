@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">עיצוב האפליקציה</string>
+    <string name="hello">שלום לכם</string>
+    <string name="shuarma">שווארמה</string>
+    <string name="message">הודעה</string>
+</resources>
